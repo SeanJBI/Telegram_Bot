@@ -9,7 +9,7 @@ from telebot import types
 from datetime import datetime
 
 
-service_file = r'C:\Users\Personal use\Desktop\SeanLoggerBot\seanloggerbot-03442d11fe84.json'
+service_file = r'seanloggerbot-03442d11fe84.json'
 gc = pygsheets.authorize(service_file=service_file)
 sheetname = 'TimeLogger'
 sh = gc.open(sheetname)
