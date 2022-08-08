@@ -5,6 +5,7 @@ This Example will show you how to use register_next_step handler.
 
 import telebot
 import pygsheets
+import pytz
 from telebot import types
 from datetime import datetime
 
@@ -48,7 +49,7 @@ def process_timein(message):
     nofind = int(len(finduser))
     if nofind >= 1:
         try:
-            now = datetime.now()
+            now = datetime.now(pytz.timezone('Asia/Manila'))
             date = now.strftime('%m/%d/%y')
             date_time = now.strftime("%I:%M:%S%p")
             time = now.strftime("%I:%M:%S%p")
@@ -90,7 +91,7 @@ def process_timein(message):
 @bot.message_handler(commands=['timeout'])
 def process_timeout(message):
     try:    
-        now2 = datetime.now()
+        now2 = datetime.now(pytz.timezone('Asia/Manila'))
         date = now2.strftime('%m/%d/%y')
         time = now2.strftime("%I:%M:%S%p")
         date_time2 = now2.strftime("%I:%M:%S%p") 
