@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "seanloggerbot",
+  "private_key_id": "03442d11fe840cecf4b5ef5d52412b9f35fadf62",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDllUYRRETzcVyA\nJ2Ga/T+1WH4/3ulABkqw83TG1nCgasmvpKI6AOwjlEKcgEPp/NSN0itPv8/W6xGf\niu3UUJf/IUBJTIJFgqiTxObt/xe4fmF7NCyTCeShNpXNpoRH1Htr0G3eGiYVuryi\nvJz235uiKbcnOi50Zb8kmdYB3POXhZRpYGocIn46dhP+sc4Iz5ioGy0wfNBETNo3\numXzbb6JdkOSLw+J9pCItywMRFtPJbL4yTWR5ROg1SRyBEoThi0ewVlokTB3XZmU\nggAaZRzJA8ELAKV5MyonsagkuIb2rCwvtpC/B3me5cxpncB3CxT1Dfk3KJr1nyMQ\nF0X9sFOhAgMBAAECggEAGQ1ufXDdM1GB/gwOFxseihvzfuXEvzNQkDmo2w/Ib4Dn\nrE6DU2AJZKKHmEtY3d40lZtDFatBM1soa6f95ua6h2EqAjWim5Iz8hgQ+RSWko/b\n9FVPreXs+Hib5TqQAcSaiTvP2WYyFLnxXrLFUB07fvkdXt729cWqk4Rj+YUSYczB\nZF5XFanFkc7vWVgbMI8Qh77NQoF6MDICCYUXP62aoPqjY1pGcEWySXUbbKtsTBGx\nhV5jfZlSeCPAreWH12pqg2azy53hK3bDbcepfI8j9qvtTn3n6KUFUk/G9pjzv0Hv\nxfywi2jZpAA/fiXiEJRcVMJu7hsv0soglrPlpoYCnwKBgQD5Xy0M1ZF5YXfNjEKA\nGrKDUtR/ojZkjrzSSbAa9lB9O3la687h82FNfFOuM0wB9mgbIuvkl0RQ1j5pF1pL\nLIl+t8+xAlNjy1qpSvRrH8CYbaE+5S2TzYE1v57YsSj5XyQptdRXtufZjpX0sOJz\nxoz5aLqk4pzc6ZKVN216Kz/ZTwKBgQDrr3KeaFiF/8v1EjcDTlgJi38FkZ0T26St\nZibCc1aN+mk3ZyckvqcRkmW3GCyz7jEtaN3peS0LsVOHsbbNalDcFdIq5xXXE5Lc\n8ApJvpI98503Omr5z3VjT4gESrOtcYbKnjyN+UWMz3hdX0xN6GjiJNPsFsGwxHCF\nTAlXwQ3oDwKBgGaQscvEj3fYEdlV5gggcum2iLYSNsL3PkxTiH4ebw6DBq/Rqx6d\n5phjGVvdt1ZbTYhTvaggWzXQWI0K0NV4dPjMizznkvrJqflVXeAtiB5pgNeIlU1k\nSc+ch63id9LRQeNx6OtGzGdb0Ot6UTmDIXp3i8TDe/cUjniW+o0z+qfbAoGAQ6B7\nPhLo28JTTsXkPTGct1hsoTdwIAOVVCAMnR0lR+YDjN8vby65l6QvRYNNSG/fco01\np8macFF4i2Yl8vk/rHcicCcQsD8wk+7YtOJW6ineAbvkeDvcDhwDBmA9AFaj+729\n2GsfVtEtU3WF2pEGj2VL3eGFwGgNdWIlCCYgDGcCgYEAuggBpEz092YRryQbE/i5\nonM/Ifr5/FhvL74RH8FeGc58nEcOfbPnFevyLGqnBXgBFHgblRp3dQRFjFyz5/NJ\nNcnO4GJkmVkhovlJkxDdhIiiok/hAPDez++JAUAQc1On4+VjYyw7DRfiIYpP/0Yh\nx+JNOfJk9JcrEEahlBCCR9k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "seanloggerbot@seanloggerbot.iam.gserviceaccount.com",
+  "client_id": "118446360417318874813",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/seanloggerbot%40seanloggerbot.iam.gserviceaccount.com"
+}
